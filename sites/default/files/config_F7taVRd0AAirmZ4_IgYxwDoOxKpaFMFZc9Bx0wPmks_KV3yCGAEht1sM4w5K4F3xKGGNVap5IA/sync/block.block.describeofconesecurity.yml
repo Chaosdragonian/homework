@@ -1,0 +1,25 @@
+uuid: dc58ed50-a463-4802-a500-b5951596608d
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:c248a5d8-c125-4b95-8e41-655b09baa5cb'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: describeofconesecurity
+theme: drupal8_zymphonies_theme
+region: welcome_banner_text
+weight: -7
+provider: null
+plugin: 'block_content:c248a5d8-c125-4b95-8e41-655b09baa5cb'
+settings:
+  id: 'block_content:c248a5d8-c125-4b95-8e41-655b09baa5cb'
+  label: 'Describe of Conesecurity'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

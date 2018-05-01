@@ -1,0 +1,25 @@
+uuid: 02d9d03d-03a4-4397-a600-f79fbb1eace3
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:9a6bc1b6-a304-4647-bf00-cf87e8594723'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: firstblock
+theme: drupal8_zymphonies_theme
+region: highlighted
+weight: -10
+provider: null
+plugin: 'block_content:9a6bc1b6-a304-4647-bf00-cf87e8594723'
+settings:
+  id: 'block_content:9a6bc1b6-a304-4647-bf00-cf87e8594723'
+  label: Firstblock
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

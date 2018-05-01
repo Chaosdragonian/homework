@@ -1,0 +1,25 @@
+uuid: 362c2b7a-af0c-4b36-b805-5bca81020bfb
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:21879c40-8102-4f99-9b00-e5cc2f3346f0'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: first_secondblock_2
+theme: drupal8_zymphonies_theme
+region: highlighted
+weight: -9
+provider: null
+plugin: 'block_content:21879c40-8102-4f99-9b00-e5cc2f3346f0'
+settings:
+  id: 'block_content:21879c40-8102-4f99-9b00-e5cc2f3346f0'
+  label: First_Secondblock
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

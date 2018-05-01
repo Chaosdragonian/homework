@@ -1,0 +1,25 @@
+uuid: 8bc7d873-c587-4676-8d1e-3042fc99dd9e
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:58123fc2-c7c9-4545-a500-bccb66a7998e'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: haengjeoggibanhaengwijindan_2
+theme: drupal8_zymphonies_theme
+region: topwidget_second
+weight: -11
+provider: null
+plugin: 'block_content:58123fc2-c7c9-4545-a500-bccb66a7998e'
+settings:
+  id: 'block_content:58123fc2-c7c9-4545-a500-bccb66a7998e'
+  label: '행적 기반 행위 진단'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

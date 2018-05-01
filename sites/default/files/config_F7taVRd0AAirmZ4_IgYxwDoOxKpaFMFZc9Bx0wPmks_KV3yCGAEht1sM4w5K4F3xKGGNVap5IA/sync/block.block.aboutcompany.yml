@@ -1,0 +1,25 @@
+uuid: 6bdffa30-f0d4-4011-ae00-0d1f7bf970ca
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:c5033571-a869-4df7-a849-73af7b4c1302'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: aboutcompany
+theme: drupal8_zymphonies_theme
+region: '-1'
+weight: null
+provider: null
+plugin: 'block_content:c5033571-a869-4df7-a849-73af7b4c1302'
+settings:
+  id: 'block_content:c5033571-a869-4df7-a849-73af7b4c1302'
+  label: 'about company'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

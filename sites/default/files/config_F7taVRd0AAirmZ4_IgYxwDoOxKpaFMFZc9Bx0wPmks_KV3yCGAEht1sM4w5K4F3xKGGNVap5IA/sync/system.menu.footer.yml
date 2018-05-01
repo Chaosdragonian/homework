@@ -1,0 +1,10 @@
+uuid: c1c7411c-a8cc-4db8-9300-a3631707d9ad
+langcode: ko
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: 7yrlW5z9zdg2eBucB2GPqXKSMQfH9lSRSO4DbWF7AFc
+id: footer
+label: 꼬리말
+description: 'Site information links'
+locked: true

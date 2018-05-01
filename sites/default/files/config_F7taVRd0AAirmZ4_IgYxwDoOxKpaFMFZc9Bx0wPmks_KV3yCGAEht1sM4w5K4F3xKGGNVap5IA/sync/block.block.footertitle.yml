@@ -1,0 +1,25 @@
+uuid: c6a33d0b-2889-4649-9a2a-423840d7e493
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:ef0145ea-aaa8-4af4-8600-eb15d2fa9c30'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: footertitle
+theme: drupal8_zymphonies_theme
+region: '-1'
+weight: null
+provider: null
+plugin: 'block_content:ef0145ea-aaa8-4af4-8600-eb15d2fa9c30'
+settings:
+  id: 'block_content:ef0145ea-aaa8-4af4-8600-eb15d2fa9c30'
+  label: 'footer title'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

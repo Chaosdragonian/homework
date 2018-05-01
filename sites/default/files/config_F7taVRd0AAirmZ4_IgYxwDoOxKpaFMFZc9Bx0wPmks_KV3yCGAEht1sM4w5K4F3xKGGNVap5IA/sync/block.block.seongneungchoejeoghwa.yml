@@ -1,0 +1,25 @@
+uuid: 738c06d7-5002-4531-8500-ebce198cd3b2
+langcode: ko
+status: false
+dependencies:
+  content:
+    - 'block_content:basic:92ade3e3-1757-498b-ab62-981492817002'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: seongneungchoejeoghwa
+theme: drupal8_zymphonies_theme
+region: '-1'
+weight: -11
+provider: null
+plugin: 'block_content:92ade3e3-1757-498b-ab62-981492817002'
+settings:
+  id: 'block_content:92ade3e3-1757-498b-ab62-981492817002'
+  label: '성능 최적화'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

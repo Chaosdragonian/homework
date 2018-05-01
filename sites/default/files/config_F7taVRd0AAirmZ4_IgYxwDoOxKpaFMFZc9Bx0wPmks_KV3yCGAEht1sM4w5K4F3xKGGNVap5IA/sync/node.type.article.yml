@@ -1,0 +1,13 @@
+uuid: 900c5365-ad1d-4da1-a006-6ce8d6a23c54
+langcode: ko
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: i4OVV5qrD7abstl4SKS8v5Ee7PuxrL548iZVSty1HRg
+name: 기사
+type: article
+description: 'Use <em>articles</em> for time-sensitive content like news, press releases or blog posts.'
+help: ''
+new_revision: false
+preview_mode: 1
+display_submitted: true

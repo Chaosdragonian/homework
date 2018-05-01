@@ -1,0 +1,10 @@
+uuid: fdb8ddea-41c8-4159-b400-c200f72d8c9a
+langcode: ko
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: jxfClwZIRXIdcvMrE--WkcZxDGUVoOIE3Sm2NRZlFuE
+id: html_datetime
+label: 'HTML Datetime'
+locked: true
+pattern: 'Y-m-d\TH:i:sO'

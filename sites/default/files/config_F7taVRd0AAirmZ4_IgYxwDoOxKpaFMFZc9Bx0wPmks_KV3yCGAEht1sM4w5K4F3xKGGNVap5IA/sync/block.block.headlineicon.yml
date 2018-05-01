@@ -1,0 +1,25 @@
+uuid: 17854280-cfea-4d8b-bf00-e641337f2732
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:ebfdc0f6-e2e5-48bf-8a4b-75fbb28be5e1'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: headlineicon
+theme: drupal8_zymphonies_theme
+region: header
+weight: -7
+provider: null
+plugin: 'block_content:ebfdc0f6-e2e5-48bf-8a4b-75fbb28be5e1'
+settings:
+  id: 'block_content:ebfdc0f6-e2e5-48bf-8a4b-75fbb28be5e1'
+  label: headlineicon
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

@@ -1,0 +1,12 @@
+uuid: b1f7f71c-68c8-4c92-8e3c-606575611811
+langcode: ko
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: c4zaT5cyPxuTXI6JOWt3qRtMvICT9tHB6d9a5VG-CmQ
+id: feedback
+label: 'Website feedback'
+recipients:
+  - chaosdragon@conesecurity.com
+reply: ''
+weight: 0

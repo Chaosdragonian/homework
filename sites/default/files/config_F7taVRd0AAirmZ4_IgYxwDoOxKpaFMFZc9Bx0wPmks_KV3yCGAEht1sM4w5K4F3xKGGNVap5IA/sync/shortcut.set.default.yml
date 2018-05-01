@@ -1,0 +1,8 @@
+uuid: c1c57276-185d-4d60-a330-487c5462c210
+langcode: ko
+status: true
+dependencies: {  }
+_core:
+  default_config_hash: U5VlGjd_SfV0Qm_EfnaynOfc549cNscFAx48JfYoMRI
+id: default
+label: 기본값

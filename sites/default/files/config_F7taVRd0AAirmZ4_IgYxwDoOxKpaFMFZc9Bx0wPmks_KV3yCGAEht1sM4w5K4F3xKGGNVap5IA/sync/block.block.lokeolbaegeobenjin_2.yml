@@ -1,0 +1,25 @@
+uuid: 14aab632-e8dc-4769-ac00-b9e44a58da63
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:f7a5235f-9fef-4208-b604-4bdcc9460a64'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: lokeolbaegeobenjin_2
+theme: drupal8_zymphonies_theme
+region: topwidget_first
+weight: -11
+provider: null
+plugin: 'block_content:f7a5235f-9fef-4208-b604-4bdcc9460a64'
+settings:
+  id: 'block_content:f7a5235f-9fef-4208-b604-4bdcc9460a64'
+  label: '로컬 백업 엔진'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

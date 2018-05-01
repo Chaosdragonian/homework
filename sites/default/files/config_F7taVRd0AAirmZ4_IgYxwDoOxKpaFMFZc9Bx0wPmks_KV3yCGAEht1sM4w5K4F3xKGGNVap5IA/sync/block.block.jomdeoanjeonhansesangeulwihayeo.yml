@@ -1,0 +1,25 @@
+uuid: dc4afbf1-e1c4-489f-a24a-7405a9c6fa6b
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:52eeacd6-000d-4a9b-a260-9619a6910734'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: jomdeoanjeonhansesangeulwihayeo
+theme: drupal8_zymphonies_theme
+region: footer_second
+weight: null
+provider: null
+plugin: 'block_content:52eeacd6-000d-4a9b-a260-9619a6910734'
+settings:
+  id: 'block_content:52eeacd6-000d-4a9b-a260-9619a6910734'
+  label: '좀더 안전한 세상을 위하여'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

@@ -1,0 +1,25 @@
+uuid: 328f673c-b9d6-4dc5-9004-4b4aa8d471e5
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:c5033571-a869-4df7-a849-73af7b4c1302'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: aboutcompany_2
+theme: drupal8_zymphonies_theme
+region: footer_menu
+weight: null
+provider: null
+plugin: 'block_content:c5033571-a869-4df7-a849-73af7b4c1302'
+settings:
+  id: 'block_content:c5033571-a869-4df7-a849-73af7b4c1302'
+  label: 'about company'
+  provider: block_content
+  label_display: '0'
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

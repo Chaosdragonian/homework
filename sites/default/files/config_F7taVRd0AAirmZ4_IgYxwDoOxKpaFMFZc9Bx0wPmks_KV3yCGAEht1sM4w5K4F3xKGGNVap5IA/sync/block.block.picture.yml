@@ -1,0 +1,25 @@
+uuid: 23a4c5ff-6059-4b75-8907-7b601fa3de9f
+langcode: ko
+status: true
+dependencies:
+  content:
+    - 'block_content:basic:1568a709-ff13-4228-aa3b-59d3044c6302'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: picture
+theme: drupal8_zymphonies_theme
+region: footer_first
+weight: null
+provider: null
+plugin: 'block_content:1568a709-ff13-4228-aa3b-59d3044c6302'
+settings:
+  id: 'block_content:1568a709-ff13-4228-aa3b-59d3044c6302'
+  label: Picture
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }

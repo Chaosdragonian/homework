@@ -1,0 +1,14 @@
+uuid: 61924851-a42f-4076-9f09-9dab4b119204
+name: www.conesecurity.com
+mail: chaosdragon@conesecurity.com
+slogan: 'End-Point 랜섬웨어보안  ConeSecurity'
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: ko
+default_langcode: ko
+_core:
+  default_config_hash: yXadRE77Va-G6dxhd2kPYapAvbnSvTF6hO4oXiOEynI

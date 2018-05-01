@@ -1,0 +1,25 @@
+uuid: 9c383b96-b186-4039-9620-32042977fd75
+langcode: ko
+status: false
+dependencies:
+  content:
+    - 'block_content:basic:454887c5-cc6a-4db8-9644-6827caa48ec5'
+  module:
+    - block_content
+  theme:
+    - drupal8_zymphonies_theme
+id: laenseomweeobangeo
+theme: drupal8_zymphonies_theme
+region: '-1'
+weight: -11
+provider: null
+plugin: 'block_content:454887c5-cc6a-4db8-9644-6827caa48ec5'
+settings:
+  id: 'block_content:454887c5-cc6a-4db8-9644-6827caa48ec5'
+  label: '랜섬웨어 방어'
+  provider: block_content
+  label_display: visible
+  status: true
+  info: ''
+  view_mode: full
+visibility: {  }
